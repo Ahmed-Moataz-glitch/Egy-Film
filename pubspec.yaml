@@ -61,7 +61,6 @@ flutter:
     - assets/lotties/
     - assets/images/
     - assets/fonts/
-    - assets/videos/
 
   fonts:
     - family: Almarai
