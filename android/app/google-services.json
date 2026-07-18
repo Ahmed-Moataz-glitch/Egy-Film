@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761800708025",
+    "project_id": "egy-film-a97aa",
+    "storage_bucket": "egy-film-a97aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761800708025:android:62cfdef10a73ed5bdd7068",
+        "android_client_info": {
+          "package_name": "com.example.egy_film"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLH6rRU108UIHch2sxZUFxN99mRHlET_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
