@@ -58,13 +58,13 @@
 ## 🎬 Demo Video
 
 <div align="center">
-  <video src="egy-film.mp4" width="700" controls="controls" muted="muted" poster="Screenshot_1786026195.png">
+  <video src="https://youtu.be/pncTx4377j4" width="700" controls="controls" muted="muted" poster="Screenshot_1786026195.png">
     Your browser does not support the video tag.
   </video>
 
   <p align="center">
     <sub>📹 <em>Watch the walk-through demo video of Egy Film in action.</em><br>
-    If the video doesn't play directly in your browser, you can <a href="egy-film.mp4"><b>watch or download the demo video here</b></a>.</sub>
+    If the video doesn't play directly in your browser, you can <a href="https://youtu.be/pncTx4377j4"><b>watch or download the demo video here</b></a>.</sub>
   </p>
 </div>
 
