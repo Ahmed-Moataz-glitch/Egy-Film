@@ -22,6 +22,7 @@
 ## 📌 Table of Contents
 
 - [Overview](#-overview)
+- [Demo Video](#-demo-video)
 - [App Screenshots](#-app-screenshots)
   - [🚀 Splash & Onboarding](#-splash--onboarding)
   - [🔐 Authentication & Password Recovery](#-authentication--password-recovery)
@@ -51,6 +52,21 @@
 - Save favorite movies and shows to a fast, offline-ready **Hive Watchlist**.
 - Complete authentication ecosystem powered by **Firebase Auth**, **Google Sign-In**, and **Supabase Email OTP Verification**.
 - Fully bilingual experience in **English** and **Arabic** with seamless RTL layout adaptations.
+
+---
+
+## 🎬 Demo Video
+
+<div align="center">
+  <video src="egy-film.mp4" width="700" controls="controls" muted="muted" poster="Screenshot_1786026195.png">
+    Your browser does not support the video tag.
+  </video>
+
+  <p align="center">
+    <sub>📹 <em>Watch the walk-through demo video of Egy Film in action.</em><br>
+    If the video doesn't play directly in your browser, you can <a href="egy-film.mp4"><b>watch or download the demo video here</b></a>.</sub>
+  </p>
+</div>
 
 ---
 
@@ -209,6 +225,7 @@ Egy-Film/
 ├── android/                    # Android native project files
 ├── ios/                        # iOS native project files
 ├── assets/                     # App assets
+│   ├── demo/                   # App demonstration video (egy-film.mp4)
 │   ├── fonts/                  # Almarai, Noto Naskh Arabic, Rubik fonts
 │   ├── icons/                  # SVG and PNG custom icons
 │   ├── images/                 # App logos, security graphics, splash art
